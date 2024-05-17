@@ -2,13 +2,13 @@
 - 👀 I’m interested in web development with computer vision.
 - 🌱 I’m currently learning about various web development frameworks and computer vision algorithms.
 - 💞️ I’m looking to collaborate on projects related to web development or computer vision applications.
-- 📫 How to reach me: You can reach me via email at neelkhot@outlook.com or connect with me on LinkedIn (https://www.linkedin.com/in/neelkhot7904/)
+- 📫 How to reach me: You can reach me via email at neelkhot@outlook.com or connect with me on LinkedIn (https://www.linkedin.com/in/neelkhot/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I enjoy experimenting with new technologies and finding creative solutions to problems!
 
 <h3 align="left">Social Links:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neelkhot7904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neelkhot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_neelkhot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
 </p>
 
